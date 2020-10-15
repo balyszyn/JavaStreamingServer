@@ -57,7 +57,7 @@ libraryDependencies ++= Seq(
   "com.novocode"                 % "junit-interface" % "0.11" % "test",
   "com.typesafe.akka" %% "akka-actor" % "2.6.10",
   "com.typesafe.akka" %% "akka-agent" % "2.5.3",
-  "com.typesafe.akka" %% "akka-camel" % "2.5.3",
+  "com.typesafe.akka" %% "akka-camel" % "2.5.31",
   "com.typesafe.akka" %% "akka-cluster" % "2.6.10",
   "com.typesafe.akka" %% "akka-cluster-metrics" % "2.5.3",
   "com.typesafe.akka" %% "akka-cluster-sharding" % "2.6.10",
