@@ -17,7 +17,7 @@ lazy val root = (project in file("."))
     JavaAppPackaging
   )
 
-scalaVersion := "2.12.12"
+scalaVersion := "2.13.3"
 
 
 resolvers ++= Seq(
