@@ -46,8 +46,8 @@ libraryDependencies ++= Seq(
   "org.bytedeco" % "javacpp" % "1.3.2",
   "org.bytedeco" % "javacv-platform" % "1.3.2",
 
-  "org.bytedeco.javacpp-presets" % "flandmark" % "1.07-0.11" classifier "",
-  "org.bytedeco.javacpp-presets" % "flandmark" % "1.07-0.11" classifier platform,
+  "org.bytedeco.javacpp-presets" % "flandmark" % "1.07-1.4.4" classifier "",
+  "org.bytedeco.javacpp-presets" % "flandmark" % "1.07-1.4.4" classifier platform,
   "org.bytedeco.javacpp-presets" % "opencv" % "4.0.1-1.4.4" classifier "",
   "org.bytedeco.javacpp-presets" % "opencv" % "4.0.1-1.4.4"  classifier platform,
 
