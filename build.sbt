@@ -33,7 +33,7 @@ libraryDependencies ++= Seq(
   guice,
 
   "com.typesafe.play" %% "play-ahc-ws-standalone" % "2.1.2",
-  "com.typesafe.play" %% "play-ws-standalone-json" % "1.1.14",
+  "com.typesafe.play" %% "play-ws-standalone-json" % "2.1.2",
   "com.typesafe.play" %% "play-ws-standalone-xml" % "1.1.14",
 
   "com.typesafe.play" %% "play-json" % "2.9.1",
