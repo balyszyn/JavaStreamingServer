@@ -48,8 +48,8 @@ libraryDependencies ++= Seq(
 
   "org.bytedeco.javacpp-presets" % "flandmark" % "1.07-0.11" classifier "",
   "org.bytedeco.javacpp-presets" % "flandmark" % "1.07-0.11" classifier platform,
-  "org.bytedeco.javacpp-presets" % "opencv" % "3.2.0-1.3" classifier "",
-  "org.bytedeco.javacpp-presets" % "opencv" % "3.2.0-1.3"  classifier platform,
+  "org.bytedeco.javacpp-presets" % "opencv" % "3.4.3-1.4.3" classifier "",
+  "org.bytedeco.javacpp-presets" % "opencv" % "3.4.3-1.4.3"  classifier platform,
 
   "org.scalatest" %% "scalatest" % "3.0.3" % Test,
   "net.imagej"                   % "ij"              % "1.49v",
