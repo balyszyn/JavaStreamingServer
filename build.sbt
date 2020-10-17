@@ -43,7 +43,7 @@ libraryDependencies ++= Seq(
   "com.typesafe.play" %% "play-iteratees-reactive-streams" % "2.6.1",
 
   "org.bytedeco" % "javacv" % "1.5.4",
-  "org.bytedeco" % "javacpp" % "1.3.2",
+  "org.bytedeco" % "javacpp" % "1.5.4",
   "org.bytedeco" % "javacv-platform" % "1.5.4",
 
   "org.bytedeco.javacpp-presets" % "flandmark" % "1.07-1.4.4" classifier "",
