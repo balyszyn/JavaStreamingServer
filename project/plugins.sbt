@@ -10,7 +10,7 @@ classpathTypes += "maven-plugin"
 // We define dependency here (in folder `project`) since it is used by the build itself.
 libraryDependencies += "org.bytedeco" % "javacpp" % "1.3.2"
 
-addSbtPlugin("org.scalariform" % "sbt-scalariform" % "1.6.0")
+addSbtPlugin("org.scalariform" % "sbt-scalariform" % "1.8.3")
 // The Play plugin
 addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.6.2")
 
