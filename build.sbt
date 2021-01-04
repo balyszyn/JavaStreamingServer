@@ -36,7 +36,7 @@ libraryDependencies ++= Seq(
   "com.typesafe.play" %% "play-ws-standalone-json" % "2.1.2",
   "com.typesafe.play" %% "play-ws-standalone-xml" % "2.1.2",
 
-  "com.typesafe.play" %% "play-json" % "2.9.1",
+  "com.typesafe.play" %% "play-json" % "2.9.2",
   "org.joda" % "joda-convert" % "2.2.1",
 
   "com.typesafe.play" %% "play-iteratees" % "2.6.1",
