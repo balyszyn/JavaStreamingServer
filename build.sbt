@@ -70,7 +70,7 @@ libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-persistence-tck" % "2.6.11",
   "com.typesafe.akka" %% "akka-remote" % "2.6.11",
   "com.typesafe.akka" %% "akka-slf4j" % "2.6.10",
-  "com.typesafe.akka" %% "akka-stream" % "2.6.10",
+  "com.typesafe.akka" %% "akka-stream" % "2.6.11",
   "com.typesafe.akka" %% "akka-stream-testkit" % "2.6.10",
   "com.typesafe.akka" %% "akka-testkit" % "2.6.10",
   "com.typesafe.akka" %% "akka-typed" % "2.5.8",
