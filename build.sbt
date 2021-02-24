@@ -66,7 +66,7 @@ libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-multi-node-testkit" % "2.6.13",
   "com.typesafe.akka" %% "akka-osgi" % "2.6.13",
   "com.typesafe.akka" %% "akka-persistence" % "2.6.13",
-  "com.typesafe.akka" %% "akka-persistence-query" % "2.6.12",
+  "com.typesafe.akka" %% "akka-persistence-query" % "2.6.13",
   "com.typesafe.akka" %% "akka-persistence-tck" % "2.6.12",
   "com.typesafe.akka" %% "akka-remote" % "2.6.13",
   "com.typesafe.akka" %% "akka-slf4j" % "2.6.12",
