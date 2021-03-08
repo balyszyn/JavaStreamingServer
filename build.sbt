@@ -44,7 +44,7 @@ libraryDependencies ++= Seq(
 
   "org.bytedeco" % "javacv" % "1.5.5",
   "org.bytedeco" % "javacpp" % "1.5.5",
-  "org.bytedeco" % "javacv-platform" % "1.5.4",
+  "org.bytedeco" % "javacv-platform" % "1.5.5",
 
   "org.bytedeco.javacpp-presets" % "flandmark" % "1.07-1.4.4" classifier "",
   "org.bytedeco.javacpp-presets" % "flandmark" % "1.07-1.4.4" classifier platform,
