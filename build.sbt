@@ -60,7 +60,7 @@ libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-camel" % "2.5.32",
   "com.typesafe.akka" %% "akka-cluster" % "2.6.13",
   "com.typesafe.akka" %% "akka-cluster-metrics" % "2.6.13",
-  "com.typesafe.akka" %% "akka-cluster-sharding" % "2.6.13",
+  "com.typesafe.akka" %% "akka-cluster-sharding" % "2.6.14",
   "com.typesafe.akka" %% "akka-cluster-tools" % "2.6.13",
   "com.typesafe.akka" %% "akka-distributed-data" % "2.6.13",
   "com.typesafe.akka" %% "akka-multi-node-testkit" % "2.6.13",
