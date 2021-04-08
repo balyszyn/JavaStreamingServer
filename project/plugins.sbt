@@ -12,7 +12,7 @@ libraryDependencies += "org.bytedeco" % "javacpp" % "1.5.5"
 
 addSbtPlugin("org.scalariform" % "sbt-scalariform" % "1.8.3")
 // The Play plugin
-addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.8.7")
+addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.8.8")
 
 // Web plugins
 addSbtPlugin("com.typesafe.sbt" % "sbt-coffeescript" % "1.0.2")
