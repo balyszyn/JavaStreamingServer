@@ -52,7 +52,7 @@ libraryDependencies ++= Seq(
   "org.bytedeco.javacpp-presets" % "opencv" % "4.0.1-1.4.4"  classifier platform,
 
   "org.scalatest" %% "scalatest" % "3.2.9" % Test,
-  "net.imagej"                   % "ij"              % "1.53i",
+  "net.imagej"                   % "ij"              % "1.53j",
   "junit"                        % "junit"           % "4.13.2" % "test",
   "com.novocode"                 % "junit-interface" % "0.11" % "test",
   "com.typesafe.akka" %% "akka-actor" % "2.6.14",
